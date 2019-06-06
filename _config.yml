@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ge Han / 韩歌"
 title_separator          : "-"
 name                     : &name "Ge Han"
-description              : &description "PhD candidate at Shandong University"
+description              : &description "Visiting PhD candidate at CISPA"
 url                      : https://G3H4N.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "g3h4n/g3h4n.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ge Han / 韩歌"
   avatar           : "profile.JPG"
-  bio              : "PhD candidate at Shandong University, work in machine learning security and privacy."
-  location         : "Jinan, Shandong, China"
+  bio              : "Visiting PhD candidate at CISPA Helmholtz Center for Information Security, work in machine learning security and privacy."
+  location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : "greta0c0"
   vine             :
-  weibo            : "椰子酒倾鹦鹉盏"
+  weibo            : "vicky0c0"
   xing             :
   youtube          :
   wikipedia        :

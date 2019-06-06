@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ge Han / 韩歌"
   avatar           : "profile.JPG"
-  bio              : "Visiting PhD candidate at CISPA Helmholtz Center for Information Security, work in machine learning security and privacy."
+  bio              : "Visiting PhD student at CISPA Helmholtz Center for Information Security."
   location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -97,7 +97,7 @@ author:
   facebook         : "greta0c0"
   foursquare       :
   github           : "g3h4n"
-  google_plus      : "greta0c0"
+  google_plus      :
   keybase          :
   instagram        : "gretahelloworld"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"

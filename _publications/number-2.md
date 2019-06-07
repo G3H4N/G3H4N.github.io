@@ -1,7 +1,7 @@
 ---
 title: "FuzzGAN"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/number-2
 excerpt: 'aaaaaaaaaaaaaaa'
 date: 2019-10-01
 venue: 'Journal 1'

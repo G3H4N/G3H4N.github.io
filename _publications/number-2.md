@@ -2,9 +2,9 @@
 title: "FuzzGAN"
 collection: publications
 permalink: /publication/number-2
-excerpt: 'aaaaaaaaaaaaaaa'
+excerpt: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
 date: 2019-10-01
-venue: 'Journal 1'
+venue: 'Conference ISSRE'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Ge Han, &quot;FuzzGAN,&quot <i>Conference ISSRE</i>. 1(2).'
 ---

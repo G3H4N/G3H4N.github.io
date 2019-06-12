@@ -16,8 +16,8 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-#    url: /cv/
-    paperurl: http://g3h4n.github.io/files/paper1.pdf
+    url: http://g3h4n.github.io/files/paper1.pdf #/cv/
+#    paperurl: http://g3h4n.github.io/files/paper1.pdf
     
   - title: "Misc."
     url: /markdown/

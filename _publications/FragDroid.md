@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/FragDroid
 excerpt:
 date: 2018-06-25
-venue: '48th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)'
+venue: 'The 48th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)'
 paperurl:
 citation: 
 ---

@@ -8,7 +8,7 @@ venue: 'The 21st IEEE International Conferences on High Performance Computing an
 paperurl:
 citation: 
 ---
-<b>Zheng Li, Ge Han, Shanqing Guo.</b>
+Zheng Li, <b>Ge Han</b>, Shanqing Guo
 
 Hiding both the presence and the content of secret information against eavesdropping over public communication channels is crucial for protecting privacy sensitive communica- tion. Steganography is the art of hiding confidential information into normal carriers. Images are the most widely used containers for steganography. However, most of the current popular image steganographic schemes are designed with prescribed human- based rules and can be effectively detected by existing steganalysis tools. Even though the steganography implemented by deep networks has a better performance against steganalysis to some extent, it is still exposed to a threat that an attacker with access to the decoding model can recover the embedded information from steganographic images.
 

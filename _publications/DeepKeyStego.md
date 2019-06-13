@@ -1,7 +1,7 @@
 ---
 title: "DeepKeyStego: Protecting Communication by Key-dependent Steganography with Deep Networks"
 collection: publications
-permalink: /publication/FuzzGAN
+permalink: /publication/DeepKeyStego
 excerpt:
 date: 2019-08-10
 venue: 'The 21st IEEE International Conferences on High Performance Computing and Communications (HPCC)'

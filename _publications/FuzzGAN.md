@@ -3,8 +3,8 @@ title: "FuzzGAN: A Generation-Based Fuzzing Framework For Testing Deep Neural Ne
 collection: publications
 permalink: /publication/FuzzGAN
 excerpt:
-date: 2019-05-19
-venue: 'ISSRE 2019 (under review)'
+date: 2019-10-28
+venue: '(Under Review) The 30th International Symposium on Software Reliability Engineering (ISSRE 2019)'
 paperurl:
 citation: 
 ---

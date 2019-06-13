@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/FuzzGAN
 excerpt:
 date: 2019-10-28
-venue: '(Under Review) The 30th International Symposium on Software Reliability Engineering (ISSRE 2019)'
+venue: '(Under Review) The 30th International Symposium on Software Reliability Engineering (ISSRE)'
 paperurl:
 citation: 
 ---

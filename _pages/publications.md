@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reserved %}
+{% for post in page.publications reserved %}
   {% include archive-single.html %}
 
 {% endfor %}

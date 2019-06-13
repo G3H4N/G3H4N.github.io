@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/FuzzGAN
 excerpt:
 date: 2019-08-10
-venue: 'The 21st IEEE International Conferences on High Performance Computing and Communications (HPCC-2019)'
+venue: 'The 21st IEEE International Conferences on High Performance Computing and Communications (HPCC)'
 paperurl:
 citation: 
 ---

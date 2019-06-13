@@ -1,7 +1,7 @@
 ---
 title: "Microcontroller Based Light Control System"
 collection: publications
-permalink: /publication/FragDroid
+permalink: /publication/BachelorThesis
 excerpt:
 date: 2014-06-04
 venue: '(Dissertation) Loughborough University, UK'

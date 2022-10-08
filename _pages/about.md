@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at [Shandong University](http://www.sdu.edu.cn) and about to visit [CISPA -- Helmholtz Center for Information Security](https://cispa.saarland).
+I am a PhD candidate at [Shandong University](http://www.sdu.edu.cn).
 
 I am interested in the overlap of machine learning and security, which includes the security evaluation of machine learning systems, and the application of machine learning techniques in security related domains. Specifically, my recent researches concern on the robustness and privacy of machine learning systems and have applied deep learning technique to message hiding.
 

@@ -3,7 +3,7 @@ title: "FuzzGAN: A Generation-Based Fuzzing Framework For Testing Deep Neural Ne
 collection: publications
 permalink: /publication/FuzzGAN
 excerpt:
-date:
+date: 2022
 venue: '(Under Review) The 24th IEEE International Conference on High Performance Computing and Communications (HPCC 2022)'
 paperurl:
 citation: 

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/FuzzGAN
 excerpt:
 date: 2022-10-24
-venue: 'The 24th IEEE International Conference on High Performance Computing and Communications (HPCC 2022)'
+venue: 'The 24th IEEE International Conference on High Performance Computing and Communications (HPCC)'
 paperurl:
 citation: 
 ---

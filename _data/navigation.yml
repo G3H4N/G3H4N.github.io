@@ -17,6 +17,6 @@ main:
     
   - title: "CV"
     url: http://g3h4n.github.io/files/CV.pdf #/cv/
-    
-  - title: "Misc."
-    url: /markdown/
+  
+  # - title: "Misc."
+  #   url: /markdown/

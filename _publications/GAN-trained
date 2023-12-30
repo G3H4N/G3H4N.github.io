@@ -20,4 +20,4 @@ We conduct extensive experiments on three datasets, using four popular GAN archi
 Empirical results show the remarkable performance of our detection and attribution methods.
 Furthermore, we conduct a more in-depth study and reveal that models trained on various data sources exhibit different decision boundaries and behaviours.
 
-Download paper here ([PDF](http://g3h4n.github.io/files/GAN-trained.pdf)).
+Download paper here ([PDF](http://g3h4n.github.io/files/paper1.pdf)).

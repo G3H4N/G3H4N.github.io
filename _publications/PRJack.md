@@ -1,23 +1,21 @@
 ---
-title: "Detection and Attribution of Models Trained on Generated Data"
+title: "PRJack: Pruning-Resistant Model Hijacking Attack Against Deep Learning Models"
 collection: publications
-permalink: /publication/GAN-trained
+permalink: /publication/PRJack
 excerpt:
-date: 2024-04-14
-venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
+date: 2024-06-30
+venue: 'The International Joint Conference on Neural Networks (IJCNN)'
 paperurl:
-citation: 
+citation:
 ---
-<b>Ge Han</b>, Ahmed Salem, Zheng Li, Shanqing Guo, Michael Backes, Yang Zhang
+<b>Ge Han</b>, Zheng Li, Shanqing Guo
 
-Generative Adversarial Networks (GANs) have become widely used in model training, as they can improve performance and/or protect sensitive information by generating data.
-However, this also raises potential risks, as malicious GANs may compromise or sabotage models by poisoning their training data.
-Therefore, it is important to verify the origin of a model’s training data for accountability purposes.
-In this work, we take the first step in the forensic analysis of models trained on GAN-generated data.
-Specifically, we first detect whether a model is trained on GAN-generated or real data.
-We then attribute these models, trained on GAN-generated data, to their respective source GANs.
-We conduct extensive experiments on three datasets, using four popular GAN architectures and four common model architectures.
-Empirical results show the remarkable performance of our detection and attribution methods.
-Furthermore, we conduct a more in-depth study and reveal that models trained on various data sources exhibit different decision boundaries and behaviours.
+Deep learning models, pivotal in AI applications, are susceptible to model hijacking attacks.
+In model hijacking attacks, adversaries can misuse models for unintended tasks, shifting blame and maintenance costs onto the models' deployers.
+Existing attack methods re-purpose target models by poisoning their training sets during training.
+However, leading models like GPT-4 and BERT with vast parameters are often pruned before deployment on resource-limited devices, which presents challenges for in-training attacks, including existing model hijacking attacks.
+In this paper, we propose \texttt{PRJack}, the first pruning-resistant hijacking attack.
+Specifically, the adversary re-purposes a model to perform a hijacking task different from the original task, which can still be activated even after model pruning.
+Our experiments across multiple datasets and pruning techniques highlight \texttt{PRJack}'s remarkable superiority on pruned models over existing model hijacking attacks.
 
-Download paper here ([PDF](http://g3h4n.github.io/files/paper1.pdf)).
+Download paper here ([PDF](http://g3h4n.github.io/files/PRJack.pdf)).
